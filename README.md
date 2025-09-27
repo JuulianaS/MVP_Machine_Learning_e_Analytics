@@ -32,8 +32,8 @@ O projeto busca realizar uma análise exploratória profunda e criar modelos pre
 │   └── Demanda_Medicamentos.csv
 │
 ├── 📂 notebooks (Mesmo arquivo disponível nas duas versões)
-│   └── analise_exploratoria_e_modelagem.ipynb
-│   └── analise_exploratoria_e_modelagem.py
+│   └── MVP_Machine_Learning_e_Analytics.ipynb
+│   └── MVP_Machine_Learning_e_Analytics.py
 │
 └── README.md
 ```
