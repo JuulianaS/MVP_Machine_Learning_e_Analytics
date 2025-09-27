@@ -82,4 +82,4 @@ Este projeto utiliza dados anonimizados com permissão da IQVIA e destina-se exc
 ### Autora
 [juliana Silva][LinkedIn](https://www.linkedin.com/in/jjulianasilva/)
 
-[Link do Google Colab](https://colab.research.google.com/drive/1QyWgRWg2Q7r76WkHXsczTTnNWMXKGG4g?usp=sharing)
+[Link do Google Colab](https://colab.research.google.com/drive/1K099RlD5OMLZ0d19Q_5Qp8jPUQCCZsbM?usp=sharing)
